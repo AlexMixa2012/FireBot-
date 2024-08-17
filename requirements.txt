@@ -1,0 +1,2 @@
+geopy == last version
+discord == last version
