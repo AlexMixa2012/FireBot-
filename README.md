@@ -1,11 +1,10 @@
 # FireBot-My program Discord bot, which notifies the fire.
-## Тип моего проекта:
-> Дискорд бот
+## My project type:
+> Discord bot
 
-## Библиотеки, которые я буду использовать
-- geopy
+## Libraries I'll Use
+- requests
 - discord
 
-## Референсы, которые мне пригодятся
-- Google Земля
-- NASA FIRMS
+## References that will be useful to me
+- Open Weather Map
