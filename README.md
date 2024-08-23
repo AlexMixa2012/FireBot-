@@ -8,3 +8,9 @@
 
 ## References that will be useful to me
 - Open Weather Map
+
+## My checklist
+Discord bot - Done
+Open Weather Map - Done
+Definition of the fire itself - Done
+Support multiple languages - Not done
