@@ -1,2 +1,2 @@
-geopy == last version
+requests == last version
 discord == last version
