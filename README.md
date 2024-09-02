@@ -1,4 +1,4 @@
-# FireBot-My program Discord bot, which notifies the fire.
+# FireBot 1.0 -My program Discord bot, which notifies the fire.
 ## My project type:
 > Discord bot
 
